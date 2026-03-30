@@ -1,4 +1,4 @@
-FROM python:3.14.0-slim
+FROM ghcr.io/k10xp/devimage:pyslim
 
 RUN apt-get update && apt-get install -y \
 	curl git neovim make \

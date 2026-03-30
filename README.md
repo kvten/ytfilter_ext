@@ -1,6 +1,6 @@
 ## ytfilter concepts
 
-Collection of ideas and proof of concepts for [ytfilter](https://github.com/kenf1/ytfilter)
+Collection of ideas and proof of concepts for [ytfilter](https://github.com/kvten/ytfilter)
 
 ### Includes:
 
